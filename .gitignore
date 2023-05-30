@@ -1,0 +1,12 @@
+#node
+node_modules
+
+#database
+src/database/database.db
+
+# .env local files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
